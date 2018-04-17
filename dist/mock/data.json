@@ -1,0 +1,29 @@
+[
+    {
+        "image": "/source/song_1.jpg",
+        "audio": "/source/song_1.mp3",
+        "song": "Green grass",
+        "album": "Sun Comes Up Again",
+        "singer": "I Am Arrows",
+        "duration": 224,
+        "isLike": true
+    },
+    {
+        "image": "/source/song_2.jpg",
+        "audio": "/source/song_2.mp3",
+        "song": "Hello",
+        "album": "Hello",
+        "singer": "OMFG",
+        "duration": 226,
+        "isLike": false
+    },
+    {
+        "image": "/source/song_3.jpg",
+        "audio": "/source/song_3.mp3",
+        "song": "相约卡农",
+        "album": "幸福之初",
+        "singer": "林隆璇",
+        "duration": 233,
+        "isLike": false
+    }
+]
